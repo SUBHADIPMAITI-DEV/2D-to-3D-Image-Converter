@@ -1,0 +1,6 @@
+Django==4.2.3
+opencv-python==4.5.5.64
+torch==2.0.1
+torchvision==0.15.2
+Pillow==9.5.0
+trimesh==3.13.1

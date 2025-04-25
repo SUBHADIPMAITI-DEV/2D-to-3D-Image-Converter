@@ -26,6 +26,7 @@ The **2D to 3D Image Converter** is a web-based application that allows users to
 - **E-commerce**: Provide 3D previews of products from simple 2D images.
 - **Education**: Aid in teaching and demonstrations with 3D visualizations from textbook images.
 - **Art and Design**: Assist artists in visualizing their 2D artwork in 3D.
+![image](https://github.com/user-attachments/assets/9ebd4285-8192-4bcb-9130-520d8eacf8c0)
 
 ### Getting Started:
 1. **Install Dependencies**: Ensure you have Python and the necessary libraries installed.

@@ -1,6 +1,29 @@
-Django==4.2.3
-opencv-python==4.5.5.64
+
+```python project="2D to 3D Image Converter" file="backend/requirements.txt" type="code"
+# Web Framework
+fastapi==0.103.1
+uvicorn==0.23.2
+python-multipart==0.0.6
+pydantic==2.3.0
+
+# ML and Computer Vision
 torch==2.0.1
 torchvision==0.15.2
-Pillow==9.5.0
-trimesh==3.13.1
+timm==0.9.5
+opencv-python==4.8.0.76
+numpy==1.25.2
+pillow==10.0.0
+
+# 3D Processing
+trimesh==3.23.5
+pyrender==0.1.45
+pyglet==2.0.9
+
+# Depth Estimation
+# MiDaS will be installed from GitHub
+git+https://github.com/isl-org/MiDaS.git
+
+# Utilities
+tqdm==4.66.1
+matplotlib==3.7.2
+scipy==1.11.2
